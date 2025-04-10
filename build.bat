@@ -1,3 +1,3 @@
 @echo off
-javac HelloWorld.java
+javac first.java
 echo Build successful!
